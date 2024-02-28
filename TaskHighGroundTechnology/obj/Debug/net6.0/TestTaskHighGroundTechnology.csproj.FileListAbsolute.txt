@@ -1,0 +1,14 @@
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\TestTaskHighGroundTechnology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\TestTaskHighGroundTechnology.AssemblyInfoInputs.cache
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\TestTaskHighGroundTechnology.AssemblyInfo.cs
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\TestTaskHighGroundTechnology.csproj.CoreCompileInputs.cache
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\bin\Debug\net6.0\TestTaskHighGroundTechnology.exe
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\bin\Debug\net6.0\TestTaskHighGroundTechnology.deps.json
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\bin\Debug\net6.0\TestTaskHighGroundTechnology.runtimeconfig.json
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\bin\Debug\net6.0\TestTaskHighGroundTechnology.dll
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\bin\Debug\net6.0\TestTaskHighGroundTechnology.pdb
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\TestTaskHighGroundTechnology.dll
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\refint\TestTaskHighGroundTechnology.dll
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\TestTaskHighGroundTechnology.pdb
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\TestTaskHighGroundTechnology.genruntimeconfig.cache
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestTaskHighGroundTechnology\obj\Debug\net6.0\ref\TestTaskHighGroundTechnology.dll
