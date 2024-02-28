@@ -1,0 +1,4 @@
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestNUnit\obj\Debug\net6.0\TestNUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestNUnit\obj\Debug\net6.0\TestNUnit.AssemblyInfoInputs.cache
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestNUnit\obj\Debug\net6.0\TestNUnit.AssemblyInfo.cs
+C:\Users\Василина\Desktop\работа\HighGroundTechnology\TestNUnit\obj\Debug\net6.0\TestNUnit.csproj.CoreCompileInputs.cache
